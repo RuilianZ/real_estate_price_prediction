@@ -1,2 +1,3 @@
-# real_estate_price_prediction
-Using regression and classification methods to predict home sale price.
+# eods-f22-hw2
+
+See notebooks/Homework\_2-UNI.ipynb for instructions.
